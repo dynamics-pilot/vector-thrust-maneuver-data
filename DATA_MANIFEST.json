@@ -1,0 +1,189 @@
+{
+  "dataset": "Vector-thrust UAV maneuver database",
+  "fileFormat": "xlsx",
+  "caseIds": [
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6",
+    "F7",
+    "F8",
+    "F9"
+  ],
+  "dataDirectory": "data",
+  "files": {
+    "F1.xlsx": {
+      "id": "F1",
+      "bytes": 15395368,
+      "worksheets": {
+        "ClosedLoop": {
+          "dataRows": 16116,
+          "columns": 70
+        },
+        "Reference": {
+          "dataRows": 3224,
+          "columns": 30
+        },
+        "OriginalGeometry": {
+          "dataRows": 2800,
+          "columns": 4
+        }
+      },
+      "path": "data/F1.xlsx"
+    },
+    "F2.xlsx": {
+      "id": "F2",
+      "bytes": 7089809,
+      "worksheets": {
+        "ClosedLoop": {
+          "dataRows": 7366,
+          "columns": 70
+        },
+        "Reference": {
+          "dataRows": 1474,
+          "columns": 30
+        },
+        "OriginalGeometry": {
+          "dataRows": 2053,
+          "columns": 4
+        }
+      },
+      "path": "data/F2.xlsx"
+    },
+    "F3.xlsx": {
+      "id": "F3",
+      "bytes": 8944717,
+      "worksheets": {
+        "ClosedLoop": {
+          "dataRows": 9306,
+          "columns": 70
+        },
+        "Reference": {
+          "dataRows": 1862,
+          "columns": 30
+        },
+        "OriginalGeometry": {
+          "dataRows": 2200,
+          "columns": 4
+        }
+      },
+      "path": "data/F3.xlsx"
+    },
+    "F4.xlsx": {
+      "id": "F4",
+      "bytes": 4782871,
+      "worksheets": {
+        "ClosedLoop": {
+          "dataRows": 5006,
+          "columns": 70
+        },
+        "Reference": {
+          "dataRows": 1002,
+          "columns": 30
+        },
+        "OriginalGeometry": {
+          "dataRows": 890,
+          "columns": 4
+        }
+      },
+      "path": "data/F4.xlsx"
+    },
+    "F5.xlsx": {
+      "id": "F5",
+      "bytes": 18707693,
+      "worksheets": {
+        "ClosedLoop": {
+          "dataRows": 21686,
+          "columns": 70
+        },
+        "Reference": {
+          "dataRows": 4338,
+          "columns": 30
+        },
+        "OriginalGeometry": {
+          "dataRows": 2824,
+          "columns": 4
+        }
+      },
+      "path": "data/F5.xlsx"
+    },
+    "F6.xlsx": {
+      "id": "F6",
+      "bytes": 8896993,
+      "worksheets": {
+        "ClosedLoop": {
+          "dataRows": 9316,
+          "columns": 70
+        },
+        "Reference": {
+          "dataRows": 1864,
+          "columns": 30
+        },
+        "OriginalGeometry": {
+          "dataRows": 2942,
+          "columns": 4
+        }
+      },
+      "path": "data/F6.xlsx"
+    },
+    "F7.xlsx": {
+      "id": "F7",
+      "bytes": 7655750,
+      "worksheets": {
+        "ClosedLoop": {
+          "dataRows": 7876,
+          "columns": 70
+        },
+        "Reference": {
+          "dataRows": 1576,
+          "columns": 30
+        },
+        "OriginalGeometry": {
+          "dataRows": 4003,
+          "columns": 4
+        }
+      },
+      "path": "data/F7.xlsx"
+    },
+    "F8.xlsx": {
+      "id": "F8",
+      "bytes": 2427600,
+      "worksheets": {
+        "ClosedLoop": {
+          "dataRows": 2561,
+          "columns": 70
+        },
+        "Reference": {
+          "dataRows": 513,
+          "columns": 30
+        },
+        "OriginalGeometry": {
+          "dataRows": 2625,
+          "columns": 4
+        }
+      },
+      "path": "data/F8.xlsx"
+    },
+    "F9.xlsx": {
+      "id": "F9",
+      "bytes": 7668555,
+      "worksheets": {
+        "ClosedLoop": {
+          "dataRows": 8041,
+          "columns": 70
+        },
+        "Reference": {
+          "dataRows": 1609,
+          "columns": 30
+        },
+        "OriginalGeometry": {
+          "dataRows": 3113,
+          "columns": 4
+        }
+      },
+      "path": "data/F9.xlsx"
+    }
+  }
+}
