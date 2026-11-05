@@ -1,6 +1,6 @@
 # Vector-thrust UAV maneuver database
 
-Nine nominal closed-loop simulated maneuver records, F1–F9, for a dual-vector-thrust
+Nine closed-loop simulated maneuver records, F1–F9, for a dual-vector-thrust
 flying-wing UAV. Each Excel workbook contains the original geometry, sampled
 reference trajectory, closed-loop aircraft response and applied-control histories.
 
@@ -10,7 +10,6 @@ reference trajectory, closed-loop aircraft response and applied-control historie
 - [Browse the nine Excel workbooks](data)
 
 Extract the ZIP and open the `data` directory to obtain `F1.xlsx` through `F9.xlsx`.
-The repository contains one set of trajectory data and its documentation.
 
 | Maneuver | Excel workbook |
 |---|---|

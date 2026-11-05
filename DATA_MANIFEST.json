@@ -16,7 +16,7 @@
   "files": {
     "F1.xlsx": {
       "id": "F1",
-      "bytes": 15395368,
+      "bytes": 15395360,
       "worksheets": {
         "ClosedLoop": {
           "dataRows": 16116,
@@ -35,7 +35,7 @@
     },
     "F2.xlsx": {
       "id": "F2",
-      "bytes": 7089809,
+      "bytes": 7089801,
       "worksheets": {
         "ClosedLoop": {
           "dataRows": 7366,
@@ -54,7 +54,7 @@
     },
     "F3.xlsx": {
       "id": "F3",
-      "bytes": 8944717,
+      "bytes": 8944710,
       "worksheets": {
         "ClosedLoop": {
           "dataRows": 9306,
@@ -73,7 +73,7 @@
     },
     "F4.xlsx": {
       "id": "F4",
-      "bytes": 4782871,
+      "bytes": 4782863,
       "worksheets": {
         "ClosedLoop": {
           "dataRows": 5006,
@@ -92,7 +92,7 @@
     },
     "F5.xlsx": {
       "id": "F5",
-      "bytes": 18707693,
+      "bytes": 18707684,
       "worksheets": {
         "ClosedLoop": {
           "dataRows": 21686,
@@ -111,7 +111,7 @@
     },
     "F6.xlsx": {
       "id": "F6",
-      "bytes": 8896993,
+      "bytes": 8896985,
       "worksheets": {
         "ClosedLoop": {
           "dataRows": 9316,
@@ -130,7 +130,7 @@
     },
     "F7.xlsx": {
       "id": "F7",
-      "bytes": 7655750,
+      "bytes": 7655744,
       "worksheets": {
         "ClosedLoop": {
           "dataRows": 7876,
@@ -149,7 +149,7 @@
     },
     "F8.xlsx": {
       "id": "F8",
-      "bytes": 2427600,
+      "bytes": 2427589,
       "worksheets": {
         "ClosedLoop": {
           "dataRows": 2561,
@@ -168,7 +168,7 @@
     },
     "F9.xlsx": {
       "id": "F9",
-      "bytes": 7668555,
+      "bytes": 7668547,
       "worksheets": {
         "ClosedLoop": {
           "dataRows": 8041,

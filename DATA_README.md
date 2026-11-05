@@ -4,9 +4,8 @@ The `data` directory contains nine Excel workbooks, `F1.xlsx` through `F9.xlsx`,
 one for each maneuver. Download a workbook from that directory, or use the
 database ZIP linked in the repository README and open its `data` directory.
 
-Each workbook provides the original geometry, sampled reference, nominal
-closed-loop response and applied inputs in separate worksheets. The
-motion-capture flight experiment reported in the paper is managed separately.
+Each workbook provides the original geometry, sampled reference,
+simulated closed-loop response and applied inputs in separate worksheets.
 
 Open a workbook in a spreadsheet application or read the worksheets by name.
 The first row is the column header; subsequent rows contain numeric data.

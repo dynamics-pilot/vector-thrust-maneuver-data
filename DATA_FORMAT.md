@@ -8,7 +8,7 @@ Numeric time series use SI units. Display formatting is separate from the stored
 
 | Worksheet | Records |
 |---|---|
-| `ClosedLoop` | Complete nominal closed-loop response and applied inputs, one sample per row at 0.01 s spacing. |
+| `ClosedLoop` | Closed-loop response and applied inputs, one sample per row at 0.01 s spacing. |
 | `Reference` | Sampled reference state and kinematics, one sample per row at 0.05 s spacing. |
 | `OriginalGeometry` | Ordered original path points, without an imposed time vector. |
 | `ReadMe` | Case identifier, declared maneuver end time, coordinates, timing conventions and license. |
